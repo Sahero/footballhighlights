@@ -1,0 +1,188 @@
+body {
+	background-color: #252525;
+	
+}
+
+h1 {
+	text-align: center;
+	font-size: 2em;
+	color: #fff;
+}
+
+.container {
+	width: 100%;
+}
+
+.
+.highlight-container .item {
+	display: inline-block;
+	width: 32%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+}
+
+.highlight-container {
+	direction: ltr;
+	position: relative;
+	display: block;
+	width: 70%;
+	background-color: #000000;
+}
+
+.highlight-container p{
+	font: normal 12px/150% Geneva, Arial, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+}
+
+.highlight-container iframe {
+	position: relative;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+.footer{
+	text-align: center;
+	font: normal 12px/150% Geneva, Arial, Helvetica, sans-serif;
+	color:white;
+}
+.footer a{	
+	font: normal 12px/150% Geneva, Arial, Helvetica, sans-serif;
+	color:white;
+}
+/*
+For Parrallex  */
+#parallax-header {
+	height: 200px;
+	background-color: gray;
+}
+
+#parallax {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 250px;
+	/* background-image:url('../../../../img/background.png'); */
+}
+
+.parallax-viewport {
+	position: relative; /* relative, absolute, fixed */
+	overflow: hidden;
+}
+
+.parallax-layer {
+	position: absolute;
+}
+/*Grid list view */
+.grid .item {
+	margin-left: 1%;
+	margin-bottom: 1%;
+	width: 32%;
+	height: 100%;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	position: relative;
+}
+
+.item {
+	position: relative;
+	height: 0;
+	overflow: hidden;
+}
+
+.container {
+	margin: 100px auto;
+	width: 90%;
+}
+
+/*
+ * Video Title (YouTube style)
+ */
+.html5-info-bar {
+	position: absolute;
+	top: 0;
+	z-index: 935;
+	width: 100%;
+	height: 30px;
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.8);
+	-webkit-transition: opacity 0.25s cubic-bezier(0, 0, 0.2, 1);
+	-moz-transition: opacity 0.25s cubic-bezier(0, 0, 0.2, 1);
+	transition: opacity 0.25s cubic-bezier(0, 0, 0.2, 1);
+}
+
+.html5-title {
+	padding-right: 6px;
+	padding-left: 12px;
+}
+
+.html5-title-text-wrapper {
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	word-wrap: normal;
+	white-space: nowrap;
+}
+
+.html5-title-text {
+	width: 100%;
+	font-size: 13px;
+	line-height: 30px;
+	color: #ccc;
+	text-decoration: none;
+}
+
+.html5-title-text:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+/*
+ * Thumbnail
+ */
+.ytp-thumbnail {
+	padding-bottom: 100%;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/*
+ * Play button (YouTube style)
+ */
+.ytp-large-play-button {
+	position: absolute;
+	top: 50% !important;
+	left: 50% !important;
+	width: 86px !important;
+	height: 60px !important;
+	padding: 0 !important;
+	margin: -29px 0 0 -42px !important;
+	font-size: normal !important;
+	font-weight: normal !important;
+	line-height: 1 !important;
+	opacity: .9;
+}
+
+.ytp-large-play-button-svg {
+	opacity: .9;
+	fill: #1f1f1f;
+}
+
+.ytp-large-play-button-svg, .ytp-large-play-button:focus .ytp-large-play-button-svg
+	{
+	opacity: 1;
+	fill: #cc181e;
+}
