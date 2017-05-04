@@ -1,0 +1,260 @@
+{
+  "took" : 22,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 2,
+    "successful" : 2,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 17,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqwo7dWAaJfa6i1H8P",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=yXx3vPKfWaQ",
+          "homeTeamScore" : 3,
+          "awayTeamName" : "Sevilla",
+          "awayTeamScore" : 1,
+          "homeTeamName" : "Atletico Madrid",
+          "fixtureDate" : "2017-03-19",
+          "categories" : [
+            "La liga",
+            " Europe",
+            " Spain"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Atletico Madrid",
+            "Sevilla"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqzdiqWAaJfa6i1H8V",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=oWxQDeHpuvg",
+          "homeTeamScore" : 2,
+          "awayTeamName" : "SSC Napoli",
+          "awayTeamScore" : 3,
+          "homeTeamName" : "Empoli",
+          "fixtureDate" : "2017-03-19",
+          "categories" : [
+            "Seria A",
+            " Europe",
+            " Italy"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Empoli",
+            "SSC Napoli"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqz8kvWAaJfa6i1H8W",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=_01O5gUcl80",
+          "homeTeamScore" : 2,
+          "awayTeamName" : "Southamton",
+          "awayTeamScore" : 1,
+          "homeTeamName" : "Tottenham",
+          "fixtureDate" : "2017-03-19",
+          "categories" : [
+            "English premier league",
+            " England"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Tottenham",
+            "Southamton"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrR5AhQcepZaXF7ZrJd",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=BqXKfr_Ojzs",
+          "homeTeamScore" : 6,
+          "awayTeamName" : "P.S.G",
+          "awayTeamScore" : 1,
+          "homeTeamName" : "Barcelona",
+          "fixtureDate" : "2017-03-08",
+          "categories" : [
+            "UEFA",
+            "Champions League",
+            "Europe"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Barcelona",
+            "P.S.G"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqwJdvWAaJfa6i1H8O",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=I06YWXW_pmQ?t=18",
+          "homeTeamScore" : 4,
+          "awayTeamName" : "Valencia",
+          "awayTeamScore" : 2,
+          "homeTeamName" : "Barcelona",
+          "fixtureDate" : "2017-03-19",
+          "categories" : [
+            "La liga",
+            " Europe",
+            " Spain"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Barcelona",
+            "Valencia"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqvdAQWAaJfa6i1H8N",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=7rIXXB4zuZQ",
+          "homeTeamScore" : 1,
+          "awayTeamName" : "Manchester United",
+          "awayTeamScore" : 3,
+          "homeTeamName" : "Middlesbrough",
+          "fixtureDate" : "2017-03-19",
+          "categories" : [
+            "English premier league",
+            " England"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Middlesbrough",
+            "Manchester United"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVr-tVdtWAaJfa6i1H84",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=lhbaKXBnetg",
+          "homeTeamScore" : 0,
+          "awayTeamName" : "Bayer Leverkusan",
+          "awayTeamScore" : 0,
+          "homeTeamName" : "Atletico Madrid",
+          "fixtureDate" : "2017-03-18T13:00:00.000Z",
+          "categories" : [
+            "UEFA",
+            " Champions League"
+          ],
+          "remarks" : "delete",
+          "tags" : [
+            "Atletico Madrid",
+            "Bayer Leverkusan"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqQufXWAaJfa6i1H8H",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=lhbaKXBnetg",
+          "homeTeamScore" : 0,
+          "awayTeamName" : "Bayer Leverkusan",
+          "awayTeamScore" : 0,
+          "homeTeamName" : "Atletico Madrid",
+          "fixtureDate" : "2017-03-16",
+          "categories" : [
+            "UEFA",
+            " Champions League"
+          ],
+          "remarks" : "Try",
+          "tags" : [
+            "Atletico Madrid",
+            "Bayer Leverkusan"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrqzAH4WAaJfa6i1H8U",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=_OAb_NNhFkI",
+          "homeTeamScore" : 0,
+          "awayTeamName" : "Bayern Munchen",
+          "awayTeamScore" : 1,
+          "homeTeamName" : "Borussia Moenchengladbach",
+          "fixtureDate" : "2017-03-19",
+          "categories" : [
+            "Bundesliga",
+            " Europe",
+            " Germany"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Borussia Moenchengladbach",
+            "Bayern Munchen"
+          ]
+        }
+      },
+      {
+        "_index" : "highlights",
+        "_type" : "football",
+        "_id" : "AVrVmNu6WAaJfa6i1H78",
+        "_score" : 1.0,
+        "_source" : {
+          "videoSource" : "Youtube",
+          "videoURL" : "https://www.youtube.com/watch?v=BqXKfr_Ojzs",
+          "homeTeamScore" : 0,
+          "awayTeamName" : "Bayer Leverkusan",
+          "awayTeamScore" : 0,
+          "homeTeamName" : "Atletico Madrid",
+          "fixtureDate" : "2017-03-16",
+          "categories" : [
+            "UEFA",
+            " Champions League"
+          ],
+          "remarks" : "",
+          "tags" : [
+            "Atletico Madrid",
+            "Bayer Leverkusan"
+          ]
+        }
+      }
+    ]
+  }
+}
