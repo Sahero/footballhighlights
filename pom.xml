@@ -9,9 +9,9 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<junit.version>3.8.1</junit.version>
-		<spring.version>5.1.1.RELEASE</spring.version>
-		<spring.security.version>4.2.2.RELEASE</spring.security.version>
+		<junit.version>x.x.x</junit.version>
+		<spring.version>x.x.x.RELEASE</spring.version>
+		<spring.security.version>x.x.x.RELEASE</spring.security.version>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>
 
@@ -104,7 +104,7 @@
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
-			<version>1.2</version>
+			<version>x.x</version>
 		</dependency>
 		<!-- <dependency> <groupId>javax.servlet</groupId> <artifactId>javax.servlet-api</artifactId> 
 			<version>3.0.1</version> <scope>provided</scope> </dependency> -->
@@ -112,53 +112,53 @@
 		<dependency>
 			<groupId>taglibs</groupId>
 			<artifactId>standard</artifactId>
-			<version>1.1.2</version>
+			<version>x.x.x</version>
 		</dependency>
 		<!-- MySQL database driver -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.9</version>
+			<version>x.x.x</version>
 		</dependency>
 
 		<dependency>
 			<groupId>commons-logging</groupId>
 			<artifactId>commons-logging</artifactId>
-			<version>1.2</version>
+			<version>x.x</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
-			<version>2.8.1</version>
+			<version>x.x.x</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
-			<version>2.8.1</version>
+			<version>x.x.x</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.elasticsearch.client</groupId>
 			<artifactId>transport</artifactId>
-			<version>5.1.1</version>
+			<version>x.x.x</version>
 		</dependency>
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.51</version>
+			<version>x.x.x</version>
 		</dependency>
 
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
-			<version>2.0.0.Alpha1</version>
+			<version>x.x.x</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-validator -->
 		<dependency>
 			<groupId>org.hibernate.validator</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>6.0.0.Alpha1</version>
+			<version>x.x.x</version>
 		</dependency>
 
 	</dependencies>
@@ -167,10 +167,10 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.6.1</version>
+				<version>x.x.x</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<source>x.x</source>
+					<target>x.x</target>
 					<!-- <failOnMissingWebXml>false</failOnMissingWebXml> -->
 				</configuration>
 			</plugin>
