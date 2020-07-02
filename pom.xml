@@ -11,7 +11,7 @@
 	<properties>
 		<junit.version>x.x.x</junit.version>
 		<spring.version>x.x.x.RELEASE</spring.version>
-		<spring.security.version>x.x.x.RELEASE</spring.security.version>
+		<spring.security.version>5.3.3.RELEASE</spring.security.version>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>
 
