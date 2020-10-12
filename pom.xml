@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<junit.version>x.x.x</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<spring.version>x.x.x.RELEASE</spring.version>
 		<spring.security.version>x.x.x.RELEASE</spring.security.version>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
